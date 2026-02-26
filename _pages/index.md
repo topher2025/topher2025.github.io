@@ -12,18 +12,18 @@ I am a student at the Alabama School of Cyber Technology and Engineering who is 
 
 ## Featured Work
 ### 301/401 Projects
-•	Designing and presenting a cell as a solution to help reduce the effects of stress and PTSD
-•	Using Fusion 360 to design, construct, and test a trebuchet using limited materials
-•	Microsoft Excel data analysis and calculations of glider performance
-•	Program and build a Weather Sensor as a part of a larger system
+* Designing and presenting a cell as a solution to help reduce the effects of stress and PTSD
+* Using Fusion 360 to design, construct, and test a trebuchet using limited materials
+* Microsoft Excel data analysis and calculations of glider performance
+* Program and build a Weather Sensor as a part of a larger system
 ### 201/101 Projects
-•	Constructing a basic website to perform calculations using HTML, CSS, and JavaScript
-•	Material testing to calculate Young’s Modulus of Elasticity
-•	Use basic circuit components to interact with programming through creating a vehicle backup sensor
-•	Designing and constructing a windmill to power an LED
-•	Designing a secure safety structure to protect an egg from falling damage from limited materials
+* Constructing a basic website to perform calculations using HTML, CSS, and JavaScript
+* Material testing to calculate Young’s Modulus of Elasticity
+* Use basic circuit components to interact with programming through creating a vehicle backup sensor
+* Designing and constructing a windmill to power an LED
+* Designing a secure safety structure to protect an egg from falling damage from limited materials
 ### Personal Projects
-•	Optimizing code and processing to compute prime numbers systematically as fast as possible, using advanced programming, as well as constructing a computer network to host a cluster of computers for calculations.
+* Optimizing code and processing to compute prime numbers systematically as fast as possible, using advanced programming, as well as constructing a computer network to host a cluster of computers for calculations.
 
 
 ---
