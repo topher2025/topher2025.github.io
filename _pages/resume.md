@@ -8,7 +8,7 @@ permalink: /resume/
 
 (659) 346-8055  
 Jordan.alaniz@outlook.com  
-LinkedIn • GitHub • Website  
+LinkedIn • GitHub • [Download PDF](files/Jordan_Alaniz_Resume.pdf)
 
 ---
 
