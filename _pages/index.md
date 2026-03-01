@@ -16,7 +16,7 @@ I am a junior at the Alabama School of Cyber Technology and Engineering (ASCTE) 
 
 <div class="grid__wrapper">
 {% assign recent_projects = site.projects | sort: "date" | reverse %}
-{% for post in recent_projects limit:3 %}
+{% for post in recent_projects limit:4 %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
