@@ -64,9 +64,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "High school student interested in engineering, simulation, and software development."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jordan-alaniz.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jordan-alaniz-683b65387/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jordan-alaniz"
@@ -89,7 +89,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: false
       share: false
@@ -100,14 +100,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
   # _projects
   - scope:
       path: ""
       type: projects
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
 
 category_archive:
