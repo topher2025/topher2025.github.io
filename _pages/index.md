@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: ""
 permalink: /
 author_profile: true
@@ -36,11 +36,3 @@ I am a junior at the Alabama School of Cyber Technology and Engineering (ASCTE) 
 {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">Recent Posts</h3>
-
-{% assign recent_posts = site.posts %}
-{% for post in recent_posts limit:2 %}
-  {% include archive-single.html type="list" %}
-{% endfor %}
-
-→ [All Posts](/blog/)
