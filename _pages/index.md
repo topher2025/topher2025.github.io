@@ -27,7 +27,7 @@ I am a junior at the Alabama School of Cyber Technology and Engineering (ASCTE) 
 
 {% include feature_row %}
 
-<h2 class="archive__subtitle">Recent Projects</h2>
+## Recent Projects
 
 {% assign recent_projects = site.projects | sort: "date" | reverse %}
 {% for post in recent_projects limit:2 %}
