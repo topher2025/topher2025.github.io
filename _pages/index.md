@@ -2,15 +2,30 @@
 layout: single
 title: ""
 permalink: /
+author_profile: true
+feature_row:
+  - title: "Projects"
+    excerpt: "Engineering and software projects I've built and documented."
+    url: "/projects/"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
+  - title: "Blog"
+    excerpt: "Short technical notes on algorithms, hardware, and design."
+    url: "/blog/"
+    btn_label: "Read Blog"
+    btn_class: "btn--primary"
+  - title: "Resume"
+    excerpt: "My academic background, skills, and experience."
+    url: "/resume/"
+    btn_label: "View Resume"
+    btn_class: "btn--primary"
 ---
 
 # Jordan Alaniz
 
 I am a junior at the Alabama School of Cyber Technology and Engineering (ASCTE) — passionate about engineering, software, and athletics. I compete on the varsity cross country and track teams, lead in clubs like CyberPatriot and National Beta Club, and spend my free time building things and optimizing systems.
 
-→ [View Projects](/projects/)&nbsp;&nbsp;→ [Read Blog](/blog/)&nbsp;&nbsp;→ [Resume](/resume/)
-
----
+{% include feature_row %}
 
 ## Recent Projects
 
@@ -21,14 +36,11 @@ I am a junior at the Alabama School of Cyber Technology and Engineering (ASCTE) 
 {% endfor %}
 </div>
 
-
-
 ## Recent Posts
 
 {% assign recent_posts = site.posts %}
 {% for post in recent_posts limit:2 %}
-- **[{{ post.title }}]({{ post.url }})** — *{{ post.date | date: "%B %-d, %Y" }}*  
-  {{ post.excerpt | strip_html | truncatewords: 25 }}
+  {% include archive-single.html type="list" %}
 {% endfor %}
 
 → [All Posts](/blog/)

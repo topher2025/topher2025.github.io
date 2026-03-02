@@ -66,6 +66,50 @@ header:
 - **Athletic Resume:** Edit `_pages/athletic-resume.md`
 - **PDF Download:** Replace `assets/files/Jordan_Alaniz_Resume.pdf` with your updated PDF.
 
+### Adding Dynamic Visual Content (Markdown Only)
+
+You can add richer visual components to any page just by editing its `.md` file — no HTML required.
+
+#### Feature Rows (cards with buttons)
+
+Add a `feature_row` block to any page's front matter, then call `{% include feature_row %}` in the body:
+
+```yaml
+---
+feature_row:
+  - title: "Section Title"
+    excerpt: "A short description of this section."
+    url: "/some-page/"
+    btn_label: "Go There"
+    btn_class: "btn--primary"   # or btn--inverse, btn--warning, etc.
+  - title: "Another Section"
+    excerpt: "Another description."
+    url: "/other-page/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    image_path: /assets/images/my-image.jpg   # optional thumbnail
+---
+
+{% include feature_row %}
+```
+
+#### Notice Boxes
+
+Wrap any paragraph with a notice class for a highlighted callout:
+
+```markdown
+This is an informational note.
+{: .notice--info}
+
+This is a warning.
+{: .notice--warning}
+
+This is a success message.
+{: .notice--success}
+```
+
+Available styles: `notice`, `notice--primary`, `notice--info`, `notice--warning`, `notice--success`, `notice--danger`.
+
 ### Repository Structure
 
 ```
