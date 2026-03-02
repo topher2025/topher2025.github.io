@@ -21,16 +21,16 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Jordan Alaniz
+## About Me
 
 I am a junior at the Alabama School of Cyber Technology and Engineering (ASCTE) — passionate about engineering, software, and athletics. I compete on the varsity cross country and track teams, lead in clubs like CyberPatriot and National Beta Club, and spend my free time building things and optimizing systems.
 
 {% include feature_row %}
 
-<h3 class="archive__subtitle">Recent Projects</h3>
+<h2 class="archive__subtitle">Recent Projects</h2>
 
 {% assign recent_projects = site.projects | sort: "date" | reverse %}
-{% for post in recent_projects limit:4 %}
+{% for post in recent_projects limit:2 %}
   {% include archive-single.html %}
 {% endfor %}
 
