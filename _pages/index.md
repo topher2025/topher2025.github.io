@@ -36,7 +36,7 @@ I am a junior at the Alabama School of Cyber Technology and Engineering (ASCTE) 
 {% endfor %}
 </div>
 
-## Recent Posts
+<h3 class="archive__subtitle">Recent Posts</h3>
 
 {% assign recent_posts = site.posts %}
 {% for post in recent_posts limit:2 %}
