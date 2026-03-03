@@ -3,11 +3,6 @@ title: Athletic Resume
 permalink: /athletic-resume/
 ---
 
-<div class="notice--info">
-  Also available: <a href="/resume/">Academic Resume</a>
-</div>
-
----
 
 ## Jordan A. Alaniz — Athletic Profile
 
