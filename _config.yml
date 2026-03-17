@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jordan Alaniz
-email: jordan.alaniz@outlook.com
+title: Christopher Lewis
+email: christoher.lewis2357@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Student portfolio featuring projects, writing, and experiments in engineering and software.
 twitter_username:
-github_username: Jordan-Alaniz
+github_username: topher2025
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
 search: false
@@ -60,16 +60,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jordan Alaniz"
+  name   : "Christopher Lewis"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "High school student interested in engineering, simulation, and software development."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jordan-alaniz/"
+      url: "https://www.linkedin.com/in/christopher-lewis-8652323a8/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jordan-alaniz"
+      url: "https://github.com/topher2025"
 
 footer:
   links:
@@ -78,10 +78,10 @@ footer:
       url: "mailto:jordan.alaniz@outlook.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jordan-alaniz-683b65387/"
+      url: "https://www.linkedin.com/in/christopher-lewis-8652323a8/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jordan-alaniz"
+      url: "https://github.com/topher2025"
 
 defaults:
   - scope:
