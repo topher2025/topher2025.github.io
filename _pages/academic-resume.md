@@ -5,7 +5,7 @@ permalink: /academic-resume/
 
 ## Christopher Lewis - Academic Resume
 
-[(256) 468-0674](tel:2564680674)  
+
 [christopher.lewis2357@gmail.com](mailto:christopher.lewis2357@gmail.com)  
 Huntsville, Alabama  
 [Download PDF](/assets/files/Christopher_Lewis_Resume.pdf)
