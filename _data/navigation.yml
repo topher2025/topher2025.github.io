@@ -8,10 +8,7 @@ main:
   - title: Blog
     url: /blog/
 
-  - title: Resume
-    url: "#"
-    children:
-      - title: "Academic Resume"
-        url: /academic-resume/
-      - title: "Athletic Profile"
-        url: /athletic-resume/
+  - title: Academic Resume
+    url: /academic-resume/
+
+
