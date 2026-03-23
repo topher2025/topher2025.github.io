@@ -15,12 +15,8 @@ permalink: /academics/
       <div class="stat-card-lbl">Weighted · All Honors/AP</div>
     </div>
     <div class="stat-card">
-      <div class="stat-card-val">1310 <span class="stat-card-unit">SAT</span></div>
-      <div class="stat-card-lbl">680 Reading · 630 Math</div>
-    </div>
-    <div class="stat-card">
       <div class="stat-card-val">32 <span class="stat-card-unit">ACT</span></div>
-      <div class="stat-card-lbl">34 English/Reading · 29 Math</div>
+      <div class="stat-card-lbl">33 English/Reading · 30 Math</div>
     </div>
   </div>
 
@@ -30,6 +26,7 @@ permalink: /academics/
     <div class="info-cell"><div class="info-pip"></div><div><div class="info-cell-title">AP Calculus</div><div class="info-cell-sub">Derivatives · integration</div></div></div>
     <div class="info-cell"><div class="info-pip"></div><div><div class="info-cell-title">AP Psychology</div><div class="info-cell-sub">Behavioral science</div></div></div>
     <div class="info-cell"><div class="info-pip"></div><div><div class="info-cell-title">AP Language</div><div class="info-cell-sub">Completed sophomore year</div></div></div>
+<div class="info-cell"><div class="info-pip"></div><div><div class="info-cell-title">AP Computer Science Principles</div><div class="info-cell-sub">Completed freshman year</div></div></div>
   </div>
   <span class="section-label">Projects</span>
   <div class="project-grid">
@@ -52,6 +49,7 @@ permalink: /academics/
     <div class="ruled-head" style="grid-template-columns:1fr 1fr 1fr;"><span>Language / Tool</span><span>Context</span><span>Level</span></div>
     <div class="ruled-row" style="grid-template-columns:1fr 1fr 1fr;"><span class="ruled-name">Python</span><span class="ruled-meta">Algorithms, scripting, networking</span><span class="ruled-badge">Advanced</span></div>
     <div class="ruled-row" style="grid-template-columns:1fr 1fr 1fr;"><span class="ruled-name">Java</span><span class="ruled-meta">AP CS A, OOP</span><span class="ruled-badge">Intermediate</span></div>
+    <div class="ruled-row" style="grid-template-columns:1fr 1fr 1fr;"><span class="ruled-name">ANSI C · C++</span><span class="ruled-meta">Low Level Programing, OOP</span><span class="ruled-badge">Intermediate</span></div>
     <div class="ruled-row" style="grid-template-columns:1fr 1fr 1fr;"><span class="ruled-name">HTML · CSS · JS</span><span class="ruled-meta">Web projects</span><span class="ruled-badge">Intermediate</span></div>
     <div class="ruled-row" style="grid-template-columns:1fr 1fr 1fr;"><span class="ruled-name">Linux · Networking</span><span class="ruled-meta">CTF, cluster setup</span><span class="ruled-badge">Foundational</span></div>
     <div class="ruled-row" style="grid-template-columns:1fr 1fr 1fr;"><span class="ruled-name">Fusion 360</span><span class="ruled-meta">CAD, engineering curriculum</span><span class="ruled-badge">Foundational</span></div>

@@ -4,19 +4,15 @@ title: Service
 bg: service
 chapter: "Service"
 page_bg: service
-subtitle: "41 service hours · CAP Senior Master Sergeant · ASCTE Ambassador · Beta Club."
+subtitle: "500+ service hours · Ninja Coach · Nation Honor Society · Beta Club."
 permalink: /service/
 ---
 
 <div class="section">
   <div class="stat-cards">
     <div class="stat-card">
-      <div class="stat-card-val">41 <span class="stat-card-unit">hours</span></div>
+      <div class="stat-card-val">500+ <span class="stat-card-unit">hours</span></div>
       <div class="stat-card-lbl">Service hours to date</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-card-val">Sr. MSgt</div>
-      <div class="stat-card-lbl">CAP · highest rank achieved</div>
     </div>
     <div class="stat-card">
       <div class="stat-card-val">2024–25</div>
