@@ -2,6 +2,7 @@
 title: "Weather Station System"
 excerpt: "Programmed and coordinated the software development for a large weather station project."
 date: 2026-03-13
+status: "Incomplete"
 tags:
   - Hardware
   - Programming
